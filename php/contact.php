@@ -41,7 +41,7 @@ if(get_magic_quotes_gpc()) {
 //$address = "example@example.net";
 // $address = "info@zenithindia.in";
 
-$address = "kb4shubham@gmail.com";
+$address = "pesswanilisha@gmail.com";
 
 // Configuration option.
 // i.e. The standard subject will appear as, "You've been contacted by John Doe."
